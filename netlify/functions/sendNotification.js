@@ -25,7 +25,7 @@ exports.handler = async (event) => {
       <table width="100%" cellpadding="0" cellspacing="0" style="border-bottom: 20px solid black; background-color: white;">
         <tr>
           <td style="padding: 10px 0;">
-            <img  src="https://hchoklahoma.com/static/media/logoo.65fed93e2e134e7c6ce6.png" alt="HCHC Logo" style="max-width: 160px;filter: brightness(0) saturate(100%);" />
+            <img  src="https://hchokc.org/static/media/logoo.65fed93e2e134e7c6ce6.png" alt="HCHC Logo" style="max-width: 160px;filter: brightness(0) saturate(100%);" />
           </td>
         </tr>
       </table>
@@ -52,16 +52,16 @@ exports.handler = async (event) => {
 
       <table width="100%" cellpadding="0" cellspacing="0">
         <tr><td>
-          <p style="font-size: 14px;">You can reply to this email if you have any questions or <a href="https://hchoklahoma.com/contact" target="_blank">contact us</a>.</p>
+          <p style="font-size: 14px;">You can reply to this email if you have any questions or <a href="https://hchokc.org/contact" target="_blank">contact us</a>.</p>
         </td></tr>
       </table>
 
       <table width="100%" cellpadding="0" cellspacing="0" style="border-top: 5px solid black; background-color: #f0f0f0; padding-top: 20px;">
         <tr>
           <td align="left" style="padding: 10px;">
-            <img src="https://hchoklahoma.com/static/media/logoo.65fed93e2e134e7c6ce6.png" alt="Logo" style="max-width: 100px;filter: brightness(0) saturate(100%);" />
+            <img src="https://hchokc.org/static/media/logoo.65fed93e2e134e7c6ce6.png" alt="Logo" style="max-width: 100px;filter: brightness(0) saturate(100%);" />
             <br />
-            <a href="https://www.hchoklahoma.com" style="display: inline-block; background-color: black; color: white; padding: 8px 12px; text-decoration: none; border-radius: 5px; margin-top: 10px;">Visit website</a>
+            <a href="https://www.hchokc.org" style="display: inline-block; background-color: black; color: white; padding: 8px 12px; text-decoration: none; border-radius: 5px; margin-top: 10px;">Visit website</a>
           </td>
 
           <td valign="top" style="padding: 10px;">

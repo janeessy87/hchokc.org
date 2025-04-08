@@ -25,7 +25,7 @@ export const Privacy = () => {
   const privacyList = [
     {
         l: 'Website Terms and conditions of use',
-        p: `Welcome to hchoklahoma.com [the “website”]. Hendrick, Casey, & Hutter (Hendrick, 
+        p: `Welcome to hchokc.org [the “website”]. Hendrick, Casey, & Hutter (Hendrick, 
                         Casey, & Hutter herein We, Us, Our) provides access to the Website and its services offered in the Website, 
                         to you subject to the following terms and conditions. In return for gaining access to the Website, you agree to
                          be bound by these terms and conditions of use without limitation or qualification. If you do not intend to be 
@@ -137,7 +137,7 @@ B. We reserve the right, in our sole discretion, to change, modify, add to, or r
             <div>
                 Revised as of September 1, 2023 <br/><b/>
 
-I. The Website located at hchoklahoma.com [the “Website”] is operated by Hendrick, Casey, & Hutter (Hendrick, Casey, & Hutter may also be referred to as “us,” “we,” and “our”). We have created this privacy policy to demonstrate our firm commitment to the privacy of our visitors and customers. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases “personally identifiable information” and “personal information” mean any information by which you, individually can be identified, such as your name, address, telephone number, etc.) and other non-public information that is associated with the foregoing, as well as “Anonymous Information,” which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons. The purpose of this privacy policy is to inform you when you visit our Website how we use such information, and the choices you have regarding our use of, and your ability to review and correct, your information.
+I. The Website located at hchokc.org [the “Website”] is operated by Hendrick, Casey, & Hutter (Hendrick, Casey, & Hutter may also be referred to as “us,” “we,” and “our”). We have created this privacy policy to demonstrate our firm commitment to the privacy of our visitors and customers. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases “personally identifiable information” and “personal information” mean any information by which you, individually can be identified, such as your name, address, telephone number, etc.) and other non-public information that is associated with the foregoing, as well as “Anonymous Information,” which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons. The purpose of this privacy policy is to inform you when you visit our Website how we use such information, and the choices you have regarding our use of, and your ability to review and correct, your information.
             </div>
         )
     },

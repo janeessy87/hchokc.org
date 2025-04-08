@@ -25,7 +25,7 @@ export const SethHend = () => {
   const ans1 = (
     <div className='flex flex-col p-0 space-y-3'>
       <div className='flex'><b className='mr-2'>Phone:</b><p className='font-extralight'>405-825-0490</p></div>
-      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight'>hendrick@hchoklahoma.com</p></div>
+      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight'>hendrick@hchokc.org</p></div>
     </div>
   )
   const ans2 = (

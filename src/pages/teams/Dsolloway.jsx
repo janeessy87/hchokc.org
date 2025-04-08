@@ -24,8 +24,8 @@ Outside the office, Daniel continues to pursue his passion for the arts and enjo
   const ans1 = (
     <div className='flex flex-col p-0 space-y-3'>
       <div className='flex'><b className='mr-2'>Phone:</b><p className='font-extralight dark:font-semibold'>405-825-0490</p></div>
-      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight dark:font-semibold'>solloway@hchoklahoma.com</p></div>
-      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight dark:font-semibold'>account.officer@hchoklahoma.com</p></div>
+      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight dark:font-semibold'>solloway@hchokc.org</p></div>
+      <div className='flex'><b className='mr-2'>Email:</b><p className='font-extralight dark:font-semibold'>account.officer@hchokc.org</p></div>
     </div>
   )
   const faqs = [

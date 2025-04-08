@@ -21,7 +21,7 @@ export const RyanLe = () => {
   const ans1 = (
     <div className='flex flex-col p-0 space-y-3'>
       <div className='flex'><b className='mr-2'>Phone:</b><p className='font-light'>405-825-0490</p></div>
-      <div className='flex'><b className='mr-2'>Email:</b><p className='font-light'>Ryan@hchoklahoma.com
+      <div className='flex'><b className='mr-2'>Email:</b><p className='font-light'>Ryan@hchokc.org
 
 </p></div>
     </div>
