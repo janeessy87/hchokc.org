@@ -73,6 +73,7 @@ exports.handler = async (event) => {
           <td valign="top" style="padding: 10px;">
             <strong style="color: #facc15; font-family: serif; font-size: 16px;">Hours</strong><br />
             <p><strong>Mon - Fri:</strong> 8:00 am - 7:00 pm</p>
+            <a  href="tel:+1405-825-0490" >405-825-0490</a>
             <p>Phones are answered 24/7</p>
           </td>
         </tr>
