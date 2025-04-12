@@ -1,5 +1,5 @@
 node_modules
-testmail
+/testmail/
 
 # Local Netlify folder
 .netlify
