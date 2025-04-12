@@ -9,7 +9,7 @@ exports.handler = async (event) => {
   console.log('Received request:', event.body);
 
   // Check if environment variables are set
-  if (!process.env.MAILGUN_API_KEY || !process.env.MAILGUN_DOMAIN) {
+  if (!process.env.NETLIFY_EMAILS_PROVIDER_API_KEY || !process.env.NETLIFY_EMAILS_MAILGUN_DOMAIN) {
     console.error('Missing required environment variables');
     return {
       statusCode: 500,
@@ -36,10 +36,10 @@ exports.handler = async (event) => {
 
     const mg = mailgun.client({
       username: 'api',
-      key: process.env.MAILGUN_API_KEY
+      key: process.env.NETLIFY_EMAILS_PROVIDER_API_KEY
     });
 
-    const result = await mg.messages.create(process.env.MAILGUN_DOMAIN, {
+    const result = await mg.messages.create(process.env.NETLIFY_EMAILS_MAILGUN_DOMAIN, {
       from: "WebContact | HCHOKC <admin@hchokc.org>",
       to: "dssolloway@writeme.com",
       subject: `New Message from ${name || 'Anonymous'}`,
