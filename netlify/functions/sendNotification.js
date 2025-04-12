@@ -6,7 +6,7 @@ const mailgun = new Mailgun(formData);
 exports.handler = async (event) => {
   const mg = mailgun.client({
     username: 'api',
-    key: process.env.MAILGUN_API_KEY
+    key: process.env.NETLIFY_EMAILS_PROVIDER_API_KEY
   });
   
   const {
@@ -94,7 +94,7 @@ exports.handler = async (event) => {
     //   parameters
     // });
 
-    await mg.messages.create(process.env.MAILGUN_DOMAIN, {
+    await mg.messages.create(process.env.NETLIFY_EMAILS_MAILGUN_DOMAIN, {
       from: from,
       to: to,
       subject: subject,
